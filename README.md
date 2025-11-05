@@ -14,7 +14,7 @@
 
 - 🎓 I’m an **Electrical Power Engineering student**, passionate about **automation, control systems, and electrical machines**.  
 - 💻 I code mainly in **Python** and **C**, and I enjoy solving real-world engineering problems with software.  
-- ⚙️ I work with tools like **MATLAB / Simulink**, **Proteus**, and **TIA Portal** for simulation and control system modeling.  
+- ⚙️ I work with tools like **MATLAB / Simulink** and **TIA Portal** for simulation and control system modeling.  
 - 🔌 I love exploring how **power systems and programming** come together in modern automation.  
 - 🚀 Currently learning more about **Embedded Systems** and **Data Analysis with Python**.  
 - ☕ Fun fact: I debug with coffee and music on repeat 🎧
@@ -27,11 +27,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-003B57?style=flat&logo=siemens&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-blue?style=flat)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -56,4 +52,11 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmed-ashraf&style=flat&color=orange&label=PROFILE+VIEWS)  
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmed-a)
+![Stats](https://github-readme-stats.vercel.app/api?username=ahmed-ashraf&show_icons=true&theme=tokyonight)
+
+</div>
+
+---
+
+> *"Engineering the flow of energy ⚡ and the logic behind it 💻"*
+
